@@ -1,5 +1,5 @@
-# C291-Final-Project
-For your C291 final project you will be implementing the game Air Hockey.
+# Air hockey Game
+Created for C291 final project where I implemented the game Air Hockey using C.
 
 #### Air Hockey has the following components
    * Ball
@@ -13,5 +13,3 @@ For your C291 final project you will be implementing the game Air Hockey.
    * Right Arrow Key - Moves the bottom slider to right.
    * A - Moves the top slider to left.
    * D - Moves the top slider to right.
-###### More details about the features that you need to incorporate in the game are available in the corresponding project milestone wiki.
-
